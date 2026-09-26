@@ -153,6 +153,9 @@ Since we are getting the best value at k = 11 and k = 15, it was decided in favo
 <img width="496" height="228" alt="image" src="https://github.com/user-attachments/assets/b21c71b8-7471-4b24-a38e-0688baa48869" />
                                             Classification report of KNN
                                                   Accuracy 64%
+
+
+
 # SVM
 It belongs to the supervised machine learning algorithm. This is the type of algorithm that can be used for both classification and regression challenges. SVM is mostly used in classification problems. In the SVM algorithm, we set each data object as a point in the n- dimensional space (where n is the number of attributes you have) by the value of each element which is the value of a particular combination. Then, we do the splitting by finding a hyper-plane that separates the two sections very well. Support Vectors are simply links to individual points.
 
