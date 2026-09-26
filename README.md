@@ -51,11 +51,12 @@ Following is the categorization of dataset based on target  class:
 Study of Dataset : We will generate and understand correlation between our attributes and target class. Correlation matrix will be generated and plotted using  matplotlib. For a correlation matrix, the more positive the value of correlation, the more increase in value of one variable causes the other to increase i.e. more directly proportional. The higher a negatively correlated variable gets, the lower the value of the target  becomes.
 
 <img width="524" height="248" alt="image" src="https://github.com/user-attachments/assets/a134d754-dae5-443f-9906-65c53a83650e" />
-                 Maximum positive correlated features is cp and thalach and maximum negative correlated features is exang and old peak 
+     Maximum positive correlated features is cp and thalach and maximum negative correlated features is exang and old peak 
 
 
  <img width="411" height="327" alt="image" src="https://github.com/user-attachments/assets/80b25f57-6931-4792-8a80-02cd28f01336" />
-                                  Correlation Diagram as heatmap
+                                  
+                                      Correlation Diagram as heatmap
 Using the correlation matrix, we discover the target to be positively correlated to chest pain significantly. This arrival should also be obvious as the greater amount of chest pain means greater risk in the heart. Max Heart rate is also significantly correlated to Target for the reason that healthier hearts do not need to become elevated  much  for  blood supply. It simply means higher heart rate, higher the risk of heart disease. A positive correlation can be observed between those with thalassemia. Since it is  a  3  valued ordinal, where 3 indicates normal, 6 to 7 defects. Hence being in the normal category is better. Presence of negative correlation among target and angina can also be observed. This observation also agrees with common sense as exercise causes muscles to crave for more oxygen, in-turn boosting heartbeat, while narrowed-down arteries would act as blockage.
 
 # User Interactive Front End
