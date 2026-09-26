@@ -115,8 +115,10 @@ In the logistic function equation, x is the input variable. Let's feed in values
 <img width="841" height="210" alt="image" src="https://github.com/user-attachments/assets/6afd11c6-4c70-4cb1-a429-06beab1c4311" />
                                        Logistic Model Result 
                                              Accuracy 80%
+
 # KNN
 K-Nearest Neighbors (KNN) is a classification and regression online (lazy) learning algorithm. It's a non-parametric approach to the extent that it doesn't make any assumption regarding the distribution of the data.
+
 # How It Works:
 Input Data: To predict a given new data point, KNN computes the similarity between this data point and the entire training data set.
 Distance Metric: Any distance metric such as Euclidean, Manhattan, or others can be employed based on the problem.
@@ -133,6 +135,7 @@ A low k may produce overfitting (high variance).
 A high k can smoothen the decision boundary but may lead to underfitting (high bias).
 For selection of the best k, vary k and check the model performance using cross-validation.
 The location at which adding k no longer further enhances accuracy appreciably is referred to as the knee point.
+
 # Features of KNN
 •	Supervised Learning: KNN is a supervised machine learning algorithm, meaning it relies on a labeled dataset to learn and make predictions.
 •	Simplicity :It is one of the simplest and most intuitive machine learning algorithms, making it easy to implement and understand.
@@ -152,6 +155,7 @@ Since we are getting the best value at k = 11 and k = 15, it was decided in favo
                                                   Accuracy 64%
 # SVM
 It belongs to the supervised machine learning algorithm. This is the type of algorithm that can be used for both classification and regression challenges. SVM is mostly used in classification problems. In the SVM algorithm, we set each data object as a point in the n- dimensional space (where n is the number of attributes you have) by the value of each element which is the value of a particular combination. Then, we do the splitting by finding a hyper-plane that separates the two sections very well. Support Vectors are simply links to individual points.
+
 # SVM features:
 ●	Use missing as level
 ●	Include iterations report
@@ -185,11 +189,13 @@ A decision tree contains a flowchart-like structure. In the structure of DT(Deci
    <img width="431" height="271" alt="image" src="https://github.com/user-attachments/assets/7f3cb4c5-6b67-44ab-b6f2-f18816cdfb5d" />
                                              Decision tree Result Graph
 
+
 # Random Forest Classifier
 A Random Forest Classifier is a method of ensemble learning applied to classification problems. It constructs multiple decision trees and combines their predictions to enhance accuracy and avoid overfitting. Each tree is trained on a random subset of data and attributes, hence making the model stable, robust, and effective in handling complex datasets.
 
  <img width="454" height="295" alt="image" src="https://github.com/user-attachments/assets/3c1cd44c-df9c-47cc-b079-fc0d46e59cfc" />
                                     Random Forest Image
+
 
 # Random Forest Features
 ●	It runs Efficiently in scenarios where database is very huge.
