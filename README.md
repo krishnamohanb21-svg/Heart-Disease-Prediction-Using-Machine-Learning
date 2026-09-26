@@ -167,6 +167,7 @@ It belongs to the supervised machine learning algorithm. This is the type of alg
 
   <img width="401" height="228" alt="image" src="https://github.com/user-attachments/assets/2e6cbeab-959c-4f17-9a49-35c98a4c263a" />
   <img width="463" height="230" alt="image" src="https://github.com/user-attachments/assets/e040d73e-a490-4c34-a573-2b13c2c7be1b" />
+                                 
                                   SVM Scores against various kernels
                                   Accuracy: 79% with linear Kernel
 
