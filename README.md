@@ -224,8 +224,11 @@ The form page screenshot is attached as:
                                           
 
 # The result page screenshot:
+
+ #  Result Page 
+ 
    <img width="793" height="381" alt="image" src="https://github.com/user-attachments/assets/5d8c68e4-10e7-4318-9836-db80e4c8adfa" />
-                                            Result Page 
+                                          
 It also has a button to print the report generated so that user can have a record of data entered by him/her and the respective result.
 
 # Conclusion
