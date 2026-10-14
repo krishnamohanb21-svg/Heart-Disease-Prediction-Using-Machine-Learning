@@ -25,12 +25,11 @@ Heart  disease is still among the major causes of death globally, and it has a h
 
 # Data Collection
 The dataset which we have used is available on Kaggle  website  and  is  available for public download. It is processed from UCI’s dataset and contains valid tuples for further processing.
-                              Dataset Characters 	Multivariate 
-                              Number of Tuples 	1025
-                              Number of Attributes	14
-                             Attribute Datatype 	Categorical Integer, Real
-                                      Source 	Kaggle 
-                                       Dataset Detail
+
+
+
+    <img width="886" height="367" alt="image" src="https://github.com/user-attachments/assets/f925ffe4-8193-4258-82b5-c36ce9ad3a68" />
+
 Next after downloading datasets is generally to clean the data if some missing values, noise in data is present. First the data is imported from downloaded csv files using pandas libraries of Python, to RAM in data type called data frame which is optimized adequately to handle two dimensional array data. The dataset does not have any null values. 14 of our attributes are the attributes which are used to predict the result, while the last attribute “target” is the result, i.e., whether or not the individual was suffering from heart  disease.
 The following are the result of the heartData.info() and heartData.describe() command, which reflects the statistics of Processed dataset.
 
@@ -174,13 +173,11 @@ It belongs to the supervised machine learning algorithm. This is the type of alg
                                   SVM Scores against various kernels
                                   Accuracy: 79% with linear Kernel
 
-                                 Kernel	            Accuracy
-                                 Linear	               79
-                                  Poly	               69
-                                   RBF	               66
-                                 Sigmoid	             55
 
-                               SVM score against Various  Kernel
+
+  
+  <img width="926" height="332" alt="image" src="https://github.com/user-attachments/assets/16a65d7a-4cbb-4c0c-9cc6-b8af36ad495d" />
+ 
 
  # Decision Tree
 A decision tree contains a flowchart-like structure. In the structure of DT(Decision Tree) in a test, an attribute is represented using an internal node. The result of the test is represented using the branch. To represent a class label, a leaf node is used. To represent classification rules paths from root to leaf are used. This is the type of analysis in which closely related influence diagrams are used for a visual and analytical root. Where the expected values of competing alternatives are calculated.
