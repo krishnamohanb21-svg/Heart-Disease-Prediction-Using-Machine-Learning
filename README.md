@@ -28,7 +28,7 @@ The dataset which we have used is available on Kaggle  website  and  is  availab
 
 
 
-    <img width="886" height="367" alt="image" src="https://github.com/user-attachments/assets/f925ffe4-8193-4258-82b5-c36ce9ad3a68" />
+<img width="886" height="367" alt="image" src="https://github.com/user-attachments/assets/f925ffe4-8193-4258-82b5-c36ce9ad3a68" />
 
 Next after downloading datasets is generally to clean the data if some missing values, noise in data is present. First the data is imported from downloaded csv files using pandas libraries of Python, to RAM in data type called data frame which is optimized adequately to handle two dimensional array data. The dataset does not have any null values. 14 of our attributes are the attributes which are used to predict the result, while the last attribute “target” is the result, i.e., whether or not the individual was suffering from heart  disease.
 The following are the result of the heartData.info() and heartData.describe() command, which reflects the statistics of Processed dataset.
