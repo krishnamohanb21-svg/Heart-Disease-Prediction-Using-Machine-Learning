@@ -217,9 +217,11 @@ Accuracy: 82% with 100 estimators. Increase in number of  estimators  will  incr
 The working front End has a page which contains form where user will enter all the required medical information
 The form page screenshot is attached as:
 
+ # Input Form
+
 <img width="759" height="357" alt="image" src="https://github.com/user-attachments/assets/cb44533c-bf5c-4ca5-b866-8b0baa5fe2fc" />
 <img width="753" height="431" alt="image" src="https://github.com/user-attachments/assets/381383b3-941b-4c62-b4e5-5cbd0dceb018" />
-                                           Input Form
+                                          
 
 # The result page screenshot:
    <img width="793" height="381" alt="image" src="https://github.com/user-attachments/assets/5d8c68e4-10e7-4318-9836-db80e4c8adfa" />
